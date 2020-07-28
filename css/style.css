@@ -213,6 +213,7 @@ button {
   padding: 5px 25px;
   box-shadow: var(--level-1);
   transition: 0.3s ease-in-out box-shadow;
+  cursor: pointer;
 }
 
 button:hover {
